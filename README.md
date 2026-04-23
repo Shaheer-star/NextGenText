@@ -8,6 +8,8 @@
 </p>
 
 ---
+<img width="1983" height="793" alt="ChatGPT Image Apr 23, 2026, 10_37_53 PM" src="https://github.com/user-attachments/assets/4de8584a-bbe6-4c9c-a703-08422d48b065" />
+
 
 ## 📌 About the Project
 
